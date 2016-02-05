@@ -9737,3 +9737,4 @@ xbmc/android/jni/URIPermission.cpp
 xbmc/filesystem/AndroidContentDirectory.cpp
 xbmc/filesystem/AndroidContentDirectory.h
 xbmc/filesystem/Makefile.in
+tools/android/packaging/xbmc/AndroidManifest.xml
